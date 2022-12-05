@@ -1,0 +1,21 @@
+body {
+background-color: mediumvioletred;
+
+}
+
+h1 {
+    color: yellow;
+    font-family: sans-serif;
+}
+#header2 {
+    border: solid navy 3px;
+    background-color: darkblue;
+    padding: 10px 0;
+    position: fixed;
+    top: 0%;
+    width: 98%;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    }
