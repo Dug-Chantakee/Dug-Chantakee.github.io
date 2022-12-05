@@ -1,0 +1,57 @@
+head {
+border: 3px white;
+position: fixed;
+top: 0;
+width: 100%;
+background-color: white;
+
+}
+body { 
+background-color: black;
+
+}
+#container {
+display: flex;
+flex-direction: column;
+
+
+}
+#image {
+    position: absolute;
+top: 0%;
+left: 3px;
+
+
+}
+#JOINOVER {
+    position: absolute;
+color: aliceblue;
+left: 20%;
+font-size: 300%;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#JOINOVER2 {
+    position: absolute;
+color: aliceblue;
+left: 20%;
+top: 36%;
+
+}
+#PLAN {
+    border: blue 20px;
+    background: blue;
+   
+    position: absolute;
+left: 43%;
+top: 40%;
+border-style: solid;
+
+
+    
+}
+#imag {
+position: absolute;
+left: 25%;
+top: 50%;
+
+}
